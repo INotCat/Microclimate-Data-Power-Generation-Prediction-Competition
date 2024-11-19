@@ -1,0 +1,6 @@
+torch
+numpy
+panda
+sklearn
+matplotlib
+tqdm
